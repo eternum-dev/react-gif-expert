@@ -1,3 +1,3 @@
 # gifExpertApp
 
-este es mi repositorio del proyecto
+este es mi repositorio del proyectogiy 
